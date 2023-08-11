@@ -5,7 +5,7 @@
 
 ---
 
-<h3 align="center">Passionate Software Engineer | Crafting Full-Stack Wonders with Node.js | Uniting Code and Blockchain | Open to Exciting Opportunities 🚀 </h3>
+<h3 align="center">Passionate Software Engineer | Architecting Code with Precision | Mastering Full-Stack Craftsmanship, Embracing Blockchain | Open to Exciting Opportunities 🚀 </h3>
 
 <h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=vatsrounak&label=Profile%20views&color=6805D3&style=flat" alt="Rounak Vats" /> </p></h3>
    <div align="center">
