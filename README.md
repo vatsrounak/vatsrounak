@@ -27,7 +27,6 @@
 <img alt="Vs-Code" src="https://img.shields.io/badge/Editor-VSCode-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 <img alt="AWS" src="https://img.shields.io/badge/Learning-AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 <img alt="Docker" src="https://img.shields.io/badge/Docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white" />
-<img alt="ReactJs" src="https://img.shields.io/badge/-ReactJs-61DAFB?style=for-the-badge&logo=react" />
 <img alt="Git" src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git" />
 <img alt="Github" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" /> 
    
