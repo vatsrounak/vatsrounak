@@ -1,7 +1,7 @@
 <h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/vatsrounak" target="_blank"> Rounak Vats </a></h1>
 <img width="30%" align="right"   src="https://github.com/Abhi6722/Abhi6722/blob/main/workbench.svg" >
 
-**I Love what I do.** experienced in **Backend & Data Engineering**, specializing in **robust backend development**. **Passionate about blockchain technology** with hands-on projects. Proficient in **data structures**, **algorithms**, and **problem-solving**.
+**I Love what I do.** experienced in **Backend & Data Engineering**, specializing in **robust backend development**. **Passionate about blockchain technology**. Proficient in **data structures**, **algorithms**, and **problem-solving**.
 
 ---
 
